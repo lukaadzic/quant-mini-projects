@@ -1,4 +1,4 @@
-# Mini Quantitative Research Pipeline for Developing, Backtesting, and Paper-Trading Systematic Strategies in Python
+# Algorithmic Trading System – Live P&L
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
